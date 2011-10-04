@@ -1,0 +1,8 @@
+h1. closest-fibonacci
+
+This is my solution to a programming challenge. I used the following resources:
+
+* http://www.maths.surrey.ac.uk/hosted-sites/R.Knott/Fibonacci/fibFormula.html#detectfib
+* http://www.megasolutions.net/ruby/Whats-the-correct-and-fast-way-to-determine-if-a-(gig)-number-is-a-perfect-square_-10183.aspx
+
+Christopher Maujean
