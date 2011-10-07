@@ -15,10 +15,12 @@ describe "ClosestFibonacci" do
   describe "is_square?" do
     it "returns true for a number that is square" do
       144.is_square?.should be_true
-      89.is_square?.should be_false
+      100.is_square?.should be_true
+      81.is_square?.should be_true
     end
     
     it "returns false for a number that is not square" do
+      89.is_square?.should be_false
       101.is_square?.should be_false
     end
   end
