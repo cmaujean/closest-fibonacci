@@ -1,4 +1,4 @@
-h1. closest-fibonacci
+h1. closest-fibonacci !https://secure.travis-ci.org/cmaujean/travis-api-wrapper.png!
 
 This is my solution to a programming challenge. I used the following resources:
 
